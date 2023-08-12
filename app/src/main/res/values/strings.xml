@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Alert Dialog</string>
+    <string name="alert_dialogs">Alert Dialogs</string>
+    <string name="simple_dialog">Simple Dialog</string>
+    <string name="simple_dialog_msg">This is a simple dialog</string>
+    <string name="ok_positive_button">OK</string>
+    <string name="cancel_negative_button">Cancel</string>
+    <string name="ignore_neutral_button">Ignore</string>
+    <string name="show_toast_ok">You clicked \"Ok\"</string>
+    <string name="show_toast_cancel">You clicked \"Cancel\"</string>
+    <string name="show_toast_ignore">You clicked \"Ignore\"</string>
+    <string name="show_toast_was_canceled">Dialog was canceled</string>
+    <string name="volume_description">Item: %1$d</string>
+    <string name="simple_alert_dialog">Simple Alert Dialog</string>
+    <string name="single_choice_items_alert_dialog">Single Choice Items Alert Dialog</string>
+    <string name="single_choice_items_alert_dialog_with_confirm">Single Choice Items Alert Dialog with Confirm</string>
+    <string name="multi_choice_alert_dialog">Multi Choice Alert Dialog</string>
+    <string name="multi_choice_alert_dialog_confirm">Multi Choice Alert Dialog with Confirm</string>
+    <string name="set_your_color">Set your color</string>
+    <string name="set_color">Set Color</string>
+    <string name="custom_dialog_edittext_input_and_validation">Custom Dialog EditText (input and validation)</string>
+    <string name="enter_volume">Enter volume</string>
+    <string name="set_value">Set value</string>
+    <string name="confirm">Confirm</string>
+    <string name="empty_value">empty value</string>
+    <string name="invalid_value">invalid_value</string>
+    <string name="custom_single_choice_alert_dialog_with_adapter">Custom Single Choice Alert Dialog with Adapter</string>
+    <string name="setup_value">Setup value</string>
+    <string name="custom_seekbar_alert_dialog">Custom SeekBar Alert Dialog</string>
+    <string name="level_progress_bar">level</string>
+
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
